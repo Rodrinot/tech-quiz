@@ -1,0 +1,16 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Test tecnológico</string>
+    <string name="question_1">1. ¿Cuál es el teléfono más vendido de la historia?</string>
+    <string name="welcome">¡Bienvenido!</string>
+    <string name="question_2">2. ¿Cuál es la app más descargada de 2020?</string>
+    <string name="question_3">3. ¿Cuál de los siguientes teléfonos soporta redes 5G?</string>
+    <string name="question_4">4. ¿Cuál de las siguientes marcas pertenecen al grupo Oppo?</string>
+    <string name="hint_year">Año</string>
+    <string name="hint_acronyms">Acrónimo</string>
+    <string name="send_button">Enviar</string>
+    <string name="question_5">5. ¿En qué año fue lanzado el primer iPhone?</string>
+    <string name="question_6">6. ¿Con qué acrónimo se conocen las redes 4G?</string>
+    <string name="congratulations">¡Buen trabajo! ¡Eres un experto!</string>
+    <string name="wrong_answers">"Comprueba: "</string>
+    <string name="result">Has obtenido un <xliff:g id="counter" example="6">%d</xliff:g> sobre 6.</string>
+</resources>

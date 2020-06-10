@@ -1,0 +1,32 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Tech Quiz</string>
+    <string name="welcome">Welcome!</string>
+    <string name="question_1">1. What is the best-selling phone in history?</string>
+    <string name="option_1_1" translatable="false">iPhone 6</string>
+    <string name="option_1_2" translatable="false">Motorola RAZR V3</string>
+    <string name="option_1_3" translatable="false">Nokia 1100</string>
+    <string name="option_1_4" translatable="false">Nokia 3310</string>
+    <string name="question_2">2. What is the most downloaded app in 2020?</string>
+    <string name="option_2_1" translatable="false">Facebook</string>
+    <string name="option_2_2" translatable="false">Instagram</string>
+    <string name="option_2_3" translatable="false">TikTok</string>
+    <string name="option_2_4" translatable="false">WhatsApp</string>
+    <string name="question_3">3. Which of the following phones supports 5G networks?</string>
+    <string name="option_3_1" translatable="false">Huawei P40</string>
+    <string name="option_3_2" translatable="false">iPhone 11 Pro Max</string>
+    <string name="option_3_3" translatable="false">Samsung Galaxy Z Flip</string>
+    <string name="option_3_4" translatable="false">Xiaomi Mi 10</string>
+    <string name="question_4">4. Which of the following brands belong to the Oppo group?</string>
+    <string name="option_4_1" translatable="false">Oppo</string>
+    <string name="option_4_2" translatable="false">OnePlus</string>
+    <string name="option_4_3" translatable="false">Realme</string>
+    <string name="option_4_4" translatable="false">Xiaomi</string>
+    <string name="question_5">5. In what year was the first iPhone released?</string>
+    <string name="hint_year">Year</string>
+    <string name="question_6">6. By what acronyms are 4G networks also known?</string>
+    <string name="hint_acronyms">Acronyms</string>
+    <string name="send_button">Send</string>
+    <string name="result">You got <xliff:g id="counter" example="6">%d</xliff:g> out of 6.</string>
+    <string name="congratulations">Well done! You are an expert!</string>
+    <string name="wrong_answers">"Check question(s): "</string>
+</resources>
